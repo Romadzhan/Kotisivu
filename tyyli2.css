@@ -1,0 +1,10 @@
+body {
+    background-color: brown;
+    background:url(images/2.png);
+}
+.harrastus{
+    color: rgb(229, 255, 0);
+    font-size: 40px;
+    border-right: center;
+    border-left: center;
+}
